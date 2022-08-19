@@ -15,22 +15,19 @@ const options = {
 
 // Text + chalk definitions
 const data = {
-  name: chalk.white('           Tierney Cyren'),
-  handle: chalk.white('bitandbang'),
-  shorthandle: chalk.white('bnb'),
-  work: chalk.white('Staff Developer Advocate at Twilio'),
+  name: chalk.white('          Yassir Rajouani'),
+  handle: chalk.white('yassiraj'),
+  shorthandle: chalk.white('yar'),
+  work: chalk.white('Frontend developer at 1minScript'),
   twitter: chalk.gray('https://twitter.com/') + chalk.cyan('bitandbang'),
-  npm: chalk.gray('https://npmjs.com/') + chalk.red('~bnb'),
-  github: chalk.gray('https://github.com/') + chalk.green('bnb'),
-  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('bitandbang'),
-  web: chalk.cyan('https://bnb.im'),
-  npx: chalk.red('npx') + ' ' + chalk.white('bitandbang'),
+  npm: chalk.gray('https://npmjs.com/') + chalk.red('~yar'),
+  gitlab: chalk.gray('https://gitlab.com/') + chalk.green('yassir128'),
+  linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('yassirrajouani'),
+  npx: chalk.red('npx') + ' ' + chalk.white('yassiraj'),
   labelWork: chalk.white.bold('    Work:'),
-  labelTwitter: chalk.white.bold(' Twitter:'),
   labelnpm: chalk.white.bold('     npm:'),
-  labelGitHub: chalk.white.bold('  GitHub:'),
+  labelGitHub: chalk.white.bold('  Gitlab:'),
   labelLinkedIn: chalk.white.bold('LinkedIn:'),
-  labelWeb: chalk.white.bold('     Web:'),
   labelCard: chalk.white.bold('    Card:')
 }
 
